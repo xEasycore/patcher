@@ -29,8 +29,9 @@ Para el caso de los GRF, luego de crear el .thor, debemos encriptarlo para que q
 abrir el .thor con GRF-Editor. Lo encriptamos con la contraseña del Grf, y lo guardamos en un lugar diferente para posteriormente subirlo al repo.
 
 Subiendo a GitHub las actualizaciones
-1. En thor debemos buscar plist2.txt. Lo editamos para añadir a la lista nuestro nuevo parche
+1. En /thor/ debemos buscar plist2.txt. Lo editamos para añadir a la lista nuestro nuevo parche
 2. Dentro de la carpeta thor/data van los parches. Utilizamos la opción ''Upload Files'' para subir nuestro parche.
+3. Comprobamos si la actualización se lanzó correctamente.
 
 Listo, ahora eres un conchesumare! :)
 
