@@ -1,8 +1,8 @@
 Instrucciones
 
 Requisitos:
-1.Bajar Thor Patcher: thor.aeomin.net
-2.Estar registrado en GitHub y ser colaborador del repositorio
+1. Bajar Thor Patcher: thor.aeomin.net
+2. Estar registrado en GitHub y ser colaborador del repositorio
 
 Pasos:
 1. Descomprimimos el Thor Patcher
