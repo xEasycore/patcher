@@ -32,7 +32,7 @@ abrir el .thor con GRF-Editor. Lo encriptamos con la contraseña del Grf, y lo g
 
 Subiendo a GitHub las actualizaciones
 1. En /thor/ debemos buscar plist2.txt. Lo editamos para añadir a la lista nuestro nuevo parche
-2. Dentro de la carpeta thor/data van los parches. Utilizamos la opción ''Upload Files'' para subir nuestro parche.
+2. Dentro de la carpeta thor/data van los parches. Utilizamos la opción ''Upload Files'' para subir nuestro parche. Hacemos un ''commit'' para indicar los cambios que se realizaron (esto es opcional, pero recomendable)
 3. Comprobamos si la actualización se lanzó correctamente.
 
 Listo, ahora eres un conchesumare! :)
