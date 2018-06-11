@@ -8,7 +8,7 @@ categories: main
 Actualización de mantenimiento - 10/06/2018
 
 {% highlight ruby %}
-Añadido nuevo actualizador
-Añadidas algunas descripciones de items
+Agregado nuevo actualizador
+Agregadas algunas descripciones de items
 {% endhighlight %}
 
