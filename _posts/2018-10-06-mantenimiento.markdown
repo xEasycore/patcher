@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Mantenimiento"
 date:   2018-10-06 17:50:00
 description: asdfjdsfafds
