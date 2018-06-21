@@ -2535,7 +2535,7 @@ SKILL_DESCRIPT = {
     "Skill Form: ^777777Active^000000",
     "Range: ^7777779 cells around the caster^000000",
     "Description: ^777777Sightless Mind is only usable while",
-    "in ^00BB00Hiding^777777status and will cancel Hiding once",
+    "in ^00BB00Hiding^777777 status and will cancel Hiding once",
     "used. This attack has a chance of causing the",
     "Stun and Blind effects on targets within the",
     "skill's range.",
@@ -2593,11 +2593,11 @@ SKILL_DESCRIPT = {
     "cannot re-equip Armor. On monsters, this skill",
     "will temporarily reduce their VIT by 40%. Skill",
     "level and caster's DEX affect chance of success.^000000",
-    "[Lv 1]:^77777717sp, 7% Success Rate^000000",
-    "[Lv 2]:^77777719sp, 9% Success Rate^000000",
-    "[Lv 3]:^77777721sp, 11% Success Rate^000000",
-    "[Lv 4]:^77777723sp, 13% Success Rate^000000",
-    "[Lv 5]:^77777725sp, 15% Success Rate^000000"
+    "[Lv 1]:^77777712sp, 10% Success Rate^000000",
+    "[Lv 2]:^77777714sp, 15% Success Rate^000000",
+    "[Lv 3]:^77777716sp, 20% Success Rate^000000",
+    "[Lv 4]:^77777718sp, 25% Success Rate^000000",
+    "[Lv 5]:^77777720sp, 30% Success Rate^000000"
   },
   [SKID.RG_STRIPHELM] = {
     "Divest Helm",
@@ -3160,10 +3160,10 @@ SKILL_DESCRIPT = {
     "again cancels the Defending Aura status.",
     "^00BB00Requires Shield.^000000",
     "[Lv 1]:^777777-20% Long Range Atk, -20 Aspd^000000",
-    "[Lv 2]:^777777-35% Long Range Atk, -15 Aspd^000000",
-    "[Lv 3]:^777777-50% Long Range Atk, -10 Aspd^000000",
-    "[Lv 4]:^777777-65% Long Range Atk, -5 Aspd^000000",
-    "[Lv 5]:^777777-80% Long Range Atk^000000"
+    "[Lv 2]:^777777-30% Long Range Atk, -15 Aspd^000000",
+    "[Lv 3]:^777777-40% Long Range Atk, -10 Aspd^000000",
+    "[Lv 4]:^777777-50% Long Range Atk, -5 Aspd^000000",
+    "[Lv 5]:^777777-65% Long Range Atk^000000"
   },
   [SKID.CR_SPEARQUICKEN] = {
     "Spear Quicken",
@@ -4503,7 +4503,7 @@ SKILL_DESCRIPT = {
     "[Lv 2]: ^7777771,100 Damage^000000",
     "[Lv 3]: ^7777771,400 Damage^000000",
     "[Lv 4]: ^7777771,700 Damage^000000",
-    "[Lv 5]: ^7777772,000 Damage^000000"
+    "[Lv 5]: ^7777773,000 Damage^000000"
   },
   [SKID.PA_SACRIFICE] = {
     "Martyr's Reckoning",
@@ -13095,6 +13095,25 @@ SKILL_DESCRIPT = {
     "^777777This skill cannot be used with Last Stand. ^000000",
     "^777777If the caster switches equipment during the duration, the skill will end and activate the 10 second penalty. 60 second duration. ^000000"
   },
+  	[SKID.CS_STRIPSHIELD] = {
+    "Magic Strip Shield",
+	"Max Level: 5",
+	"Skill Form: ^339900Supportive^000000",
+	"Target: ^777777Enemy^000000",
+	"Duration: ^77777715 seconds^000000",
+	"Description: ^777777Forcibly strip the Shield off a",
+	"target. In PVP, targeted character temporarily",
+	"cannot re-equip Shield. On monsters, this skill",
+	"will temporarily reduce their Defense by 15%.",
+	"Skill level and caster's DEX affect chance of",
+	"success.^000000",
+	"[Lv 1]:^77777712sp, 10% Success Rate^000000",
+    "[Lv 2]:^77777714sp, 15% Success Rate^000000",
+    "[Lv 3]:^77777716sp, 20% Success Rate^000000",
+    "[Lv 4]:^77777718sp, 25% Success Rate^000000",
+    "[Lv 5]:^77777720sp, 30% Success Rate^000000",
+	"^FF0000This skill has 1% of bypass chemical protection.^000000",
+  },
   [SKID.BA_POEMBRAGI2] = {
     "브라기의 시 (A Poem of Bragi)",
     "MAX Lv : 10",
@@ -13110,5 +13129,5 @@ SKILL_DESCRIPT = {
     "계열 : ^777777보조^000000",
     "범위 : ^777777자신 주변 7칸^000000",
     "내용 : ^777777범위내 플레이어의 크리티컬 확률을 높인다.^000000"
-  }
+  },
 }
