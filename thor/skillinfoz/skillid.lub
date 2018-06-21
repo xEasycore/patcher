@@ -1388,6 +1388,6 @@ SKID = {
 	SCRIPT_999 = 11999,
 	EFST_DRESS_UP = 12000,
 	EFST_999 = 12999,
-	-- Custom Skills [Easycore]--
+	-- Custom Skills [Yuyu]--
 	CS_STRIPSHIELD = 5066,
 }
